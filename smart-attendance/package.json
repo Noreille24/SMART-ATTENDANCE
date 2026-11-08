@@ -1,0 +1,9 @@
+{
+  "name": "smart-attendance",
+  "version": "1.0.0",
+  "description": "HCI Final Project #18 - Smart Attendance Interface",
+  "main": "server.js",
+  "scripts": { "start": "node --no-warnings server.js", "test": "node --no-warnings test.js" },
+  "engines": { "node": ">=22.5" },
+  "license": "MIT"
+}
